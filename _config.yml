@@ -1,5 +1,5 @@
-title: jekyll-rtd-theme
-description: Just another documentation theme compatible with GitHub Pages
+title: SEHDY
+description: Hello
 
 theme: null
 
@@ -18,7 +18,6 @@ plugins:
 
 exclude:
   - Makefile
-  - CNAME
   - LICENSE
   - update.sh
   - Gemfile
